@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 50px
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+p {
+    color: rgb(98, 0, 255);
+}
+.header {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://scontent.fhan5-6.fna.fbcdn.net/v/t1.6435-9/175453870_325384198942039_8455845047140849237_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=F74GCNzPgpEAX_645IG&_nc_ht=scontent.fhan5-6.fna&oh=00fb242fdae6ca5a9d023cef1ea72244&oe=61A18B2D);
+}
